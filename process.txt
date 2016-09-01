@@ -1,0 +1,12 @@
+
+tex console
+daemon
+sleeping process
+running process
+kill command, free command 
+concept of pipe
+pipe size,multistaged pipe line
+grep
+vi
+xargs
+yes command

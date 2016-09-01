@@ -1,0 +1,8 @@
+video5:shell 
+----------------
+unix shell
+csh,ksh,zsh..etc
+linux shell: the bash
+alias/unalias
+ shell variables
+PATH variable

@@ -1,0 +1,9 @@
+ basics part1
+------------------
+
+introduction to basic shell commands, date,cat,echo,cd,ls.. etc
+
+editing commands mkdir,rm,rmdir,rm -rf 
+standard input output redirection
+root directory /
+macos kernal,free bsd,open bsd,net bsd
