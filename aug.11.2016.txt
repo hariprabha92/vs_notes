@@ -1,0 +1,21 @@
+video 15 (week5) 11-8-2016
+--------------------------
+list-->'in' membership testing -->O(n)
+set-->'in'----->O(1)
+
+how?
+a set data structure is implemeted using hash tables
+the elements of a set are immutable.
+--> membership testing in an array -O(N)
+ 
+" in hashing rather than storing a set of elements in table in sequence you want to store a collection of objects in memmory you can utilise a table or an array to store the elements in sequence , but the trouble is if you want to look up an element you have to scan the whole thing and that will take O(n).when you employ hashing you will assign a fixed position to each object in the table and computing  the fixed position is a constant time operation."
+
+
+-----------------
+
+--list in python is implimented as a c like array
+  append operation in a list is O(1)
+  insert operation in a list is O(n)
+------------------
+
+
